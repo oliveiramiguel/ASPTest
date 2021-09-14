@@ -1,0 +1,7 @@
+
+
+/vendor
+/.docker-volumes
+.env
+/coverage
+phpunit.xml.bak
